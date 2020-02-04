@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BST Guesser</string>
+    <string name="start">Start</string>
+    <string name="hint">Press \"Start\" to build a tree</string>
+    <string name="insert">INSERT</string>
+    <string name="done">DONE!</string>
+
+    <string name="LookingFor">Looking for node: %1$d</string>
+</resources>
